@@ -28,7 +28,7 @@
     font-weight: bold;
     transition: color 0.3s;
     text-transform: uppercase;
-    font-family: Poppins, sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 12px;
 }
 
@@ -87,4 +87,28 @@ b:hover {
 
 .footer-area {
     background-color: #252350;
+    padding: 20px;
+}
+
+.footer-section {
+    margin-bottom: 20px;
+}
+
+.footer-section h4 {
+    color: #f1f1f1;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-section a {
+    color: #252350;
+}
+
+.footer-section a:hover {
+    text-decoration: none;
 }
