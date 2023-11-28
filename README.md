@@ -17,16 +17,16 @@ This project involves enhancing the existing Computer Science Department website
 
 
 # screenshots
-[HOMEPAGE](ss/home%20ss.png)
-[ABOUT](ss/About%20ss.png)
-[FACULTY](ss/Faculty%20ss.png)
-[RESEARCH](ss/Research%20ss.png)
-[CONTACTUS](ss/contactUs%20ss.png)
-[RESOURCE](ss/Resources%20ss.png)
-[EVENTS](ss/event%20ss.png)
-[CATALOG](ss/Catalog%20ss.png)
-[SOCIALMEDIA](ss/SocialMedia%20ss.png)
-[SHORTCOURSES](ss/shortCourses%20ss.png)
+![HOMEPAGE](<ss/home ss.png>)
+![ABOUT](ss/About%20ss.png)
+![FACULTY](ss/Faculty%20ss.png)
+![RESEARCH](ss/Research%20ss.png)
+![CONTACTUS](ss/contactUs%20ss.png)
+![RESOURCE](ss/Resources%20ss.png)
+![EVENTS](ss/event%20ss.png)
+![CATALOG](ss/Catalog%20ss.png)
+![SOCIALMEDIA](ss/SocialMedia%20ss.png)
+![SHORTCOURSES](ss/shortCourses%20ss.png)
 
 # lessons learned
 **Programming Languages(HTML,CSS)
